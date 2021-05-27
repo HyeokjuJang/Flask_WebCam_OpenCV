@@ -1,3 +1,3 @@
-All rights belongs to https://github.com/dxue2012/python-webcam-flask
+All rights belongs to https://github.com/euguroglu/Flask_WebCam_OpenCV
 
-I just added OpenCV integration for my project
+I just fix socket io versions so that working well.
